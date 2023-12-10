@@ -11,3 +11,11 @@ Outline Plan:
 - Anova (Analysis of Variance)
   - One Way: Categorical input, numeric output 
   - Two Way: Multiple categorical inputs, single numeric output
+
+
+# Questions
+- Statistics are descriptive and inferential
+- inferential: 
+    - Statistical tests 
+    - regression analysis
+    - techniques used for forecasting and modeling
